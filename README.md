@@ -1,16 +1,53 @@
-## Hi there 👋
+# AI Engineer Career Overview
 
-<!--
-**Habonit/Habonit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏢 Current Position
+**TrustLab | AI Engineer**
 
-Here are some ideas to get you started:
+- **기간:** 2024년 ~ 현재  
+- **내용:**
+  - 데이터 기반으로 **STT 모델 훈련** 및 **LLM 모델 훈련**
+  - **민원 데이터 분석 및 민원 데이터 기반 다양한 모델링 기획**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education & Training
+
+### 아이펠 온라인 2기 AI 리서치 과정
+- **기간:** 2022.06 ~ 2023.06  
+- **내용:** 인공지능에 대한 제반 지식에 대한 총체적인 학습 및 KDT 해커톤까지 참여
+
+### LG AIMERS
+- **기간:** 2023.02 ~ 2023.09  
+- **내용:** NLP와 CNN, 시계열 데이터와 강화학습에 대한 이론적 토대 학습
+
+## 🏆 Competitions & Achievements
+
+### ETRI 주관 인공지능 휴먼이해 인공지능 경진대회 장려상 수상
+- **연도:** 2023년  
+- **내용:**
+  - data2vec과 Tensor Fusion-Mixer(TFM)을 활용한 **멀티모달 감성 분석 논문** 작성의 저자로 참여
+  - 멀티모달 데이터를 바탕으로 감정 분석 수행
+  - **정확도 86% / F1-score 93%** 달성
+  - **장려상 수상**
+
+### 한국 지질자원연구원 주관 지질자원 해커톤
+- **연도:** 2023년  
+- **내용:**
+  - **시계열 데이터 기반 석유 시추 데이터(3W) 이상 탐지 모델**에서 ML 부문 담당
+  - 데이터 양자화를 포함한 **EDA 수행**
+  - CNN과 TabNet 모델을 활용한 **앙상블 구조 설계**
+  - **우수상 수상**
+
+### LG 온라인 쇼핑몰 수요 예측 해커톤 리더보드 2위
+- **연도:** 2023년  
+- **내용:**
+  - **LG 생활건강 시계열 데이터 3년치**를 바탕으로 **6개월간의 수요 예측 수행**
+  - **Temporal Fusion Transformer (TFT) 모델**을 활용하여 예측 성능 최적화
+  - 자체 평가 매트릭 기준 **0.57의 점수** 달성
+  - **리더보드 2위 기록**
+
+## 🔧 Practical Experience
+
+### 김현정 수학학원 | 중·고등부 수업 담당 & 유사 문항 추출기 개발
+- **연도:** 2024년  
+- **내용:**
+  - 중·고등부 수업을 담당하며 실무 경험 축적
+  - **Mathpix API, doc2vec 및 문장 유사도 측정 방식을 활용한 유사 문항 추출기 프로토타입 개발** (콴다 벤치마킹)

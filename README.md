@@ -7,6 +7,7 @@
 - **내용:**
   - 데이터 기반으로 **STT 모델 훈련** 및 **LLM 모델 훈련**
   - **민원 데이터 분석 및 민원 데이터 기반 다양한 모델링 기획**
+  - **링크: **: [페이지 확인](https://labcord.ai/index.html)
 
 ## 📚 Education & Training
 
@@ -73,6 +74,9 @@
 - **내용:**
   - **Transformer 계열의 언어 모델에 집중한 AI 교육 수료**
   - **논문 요약 챗봇 서비스 개발**
-- **수료:** <a href="https://hhpluscertificateofcompletion.oopy.io/">
+- **수료:**
+  - 수료증: [수료증 링크](https://github.com/Habonit/Habonit/blob/main/%ED%95%AD%ED%95%B4%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20AI%20%EC%BD%94%EC%8A%A4%202%EA%B8%B0%20%EC%88%98%EB%A3%8C%20%EC%9D%B8%EC%A6%9D%EC%84%9C.jpg)
+  - 배지: <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
+
+  

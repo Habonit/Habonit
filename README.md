@@ -14,11 +14,13 @@
 - **기간:** 2022.06 ~ 2023.06   
 - **내용:** 인공지능에 대한 제반 지식에 대한 총체적인 학습 및 KDT 해커톤까지 참여
 - **기간:** 2022.06 ~ 2023.06
-- **수료증:** [아이펠 수료증.pdf](아이펠 수료증.pdf)
+- **수료증:** [아이펠 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/%EC%95%84%EC%9D%B4%ED%8E%A0%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf)
+
 
 ### LG AIMERS
 - **기간:** 2023.02 ~ 2023.09  
 - **내용:** NLP와 CNN, 시계열 데이터와 강화학습에 대한 이론적 토대 학습
+- **수료증:** [LG AIMERS 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/LG_AI%20(2).pdf)  
 
 ## 🏆 Competitions & Achievements
 
@@ -26,6 +28,7 @@
 - **연도:** 2023년  
 - **팀명:** 모두의 연구소  
 - **수상 내역:** [수상 링크](https://www.etri.re.kr/kor/bbs/view.etri?b_board_id=ETRI06&b_idx=19025)  
+- **논문:** [data2vec과 Tensor Fusion-Mixer(TFM)을 활용한 멀티모달 감성 분석 논문](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/data2vec%EA%B3%BC%20Tensor%20Fusion-Mixer(TFM)%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D%20(1).pdf)  
 - **내용:**
   - data2vec과 Tensor Fusion-Mixer(TFM)을 활용한 **멀티모달 감성 분석 논문** 작성의 저자로 참여
   - 멀티모달 데이터를 바탕으로 감정 분석 수행

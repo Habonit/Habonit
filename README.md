@@ -30,6 +30,7 @@
   - 멀티모달 데이터를 바탕으로 감정 분석 수행
   - **정확도 86% / F1-score 93%** 달성
   - **장려상 수상**
+- **링크:** https://github.com/ARP-Lab/multi_modal
 
 ### 한국 지질자원연구원 주관 지질자원 해커톤
 - **연도:** 2023년  
@@ -40,6 +41,7 @@
   - 데이터 양자화를 포함한 **EDA 수행**
   - CNN과 TabNet 모델을 활용한 **앙상블 구조 설계**
   - **우수상 수상**
+- **링크:** https://github.com/lofootve/geo-con
 
 ### LG 온라인 쇼핑몰 수요 예측 해커톤 리더보드 2위
 - **연도:** 2023년  
@@ -50,6 +52,7 @@
   - **Temporal Fusion Transformer (TFT) 모델**을 활용하여 예측 성능 최적화
   - 자체 평가 매트릭 기준 **0.57의 점수** 달성
   - **리더보드 2위 기록**
+- **링크:** https://github.com/Habonit/aimers3rd_paradeigma
 
 ## 🔧 Practical Experience
 

@@ -73,3 +73,6 @@
 - **내용:**
   - **Transformer 계열의 언어 모델에 집중한 AI 교육 수료**
   - **논문 요약 챗봇 서비스 개발**
+- **수료:** <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>

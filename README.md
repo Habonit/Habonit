@@ -1,6 +1,6 @@
 # AI Engineer Career Overview
 
-## 🏢 Current Position
+## Current Position
 **TrustLab | AI Engineer**
 
 - **기간:** 2024년 ~ 현재  
@@ -9,7 +9,7 @@
   - **민원 데이터 분석 및 민원 데이터 기반 다양한 모델링 기획**
   - **링크: **: [페이지 확인](https://labcord.ai/index.html)
 
-## 📚 Education & Training
+## Education & Training
 
 ### 아이펠 온라인 2기 AI 리서치 과정
 - **기간:** 2022.06 ~ 2023.06   
@@ -23,7 +23,7 @@
 - **내용:** NLP와 CNN, 시계열 데이터와 강화학습에 대한 이론적 토대 학습
 - **수료증:** [LG AIMERS 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/LG_AI%20(2).pdf)  
 
-## 🏆 Competitions & Achievements
+## Competitions & Achievements
 
 ### ETRI 주관 인공지능 휴먼이해 인공지능 경진대회 장려상 수상
 - **연도:** 2023년  
@@ -59,7 +59,7 @@
   - **리더보드 2위 기록**
 - **링크:** https://github.com/Habonit/aimers3rd_paradeigma
 
-## 🔧 Practical Experience
+## Practical Experience
 
 ### 김현정 수학학원 | 중·고등부 수업 담당 & 유사 문항 추출기 개발
 - **연도:** 2024년  
@@ -67,7 +67,7 @@
   - 중·고등부 수업을 담당하며 실무 경험 축적
   - **Mathpix API, doc2vec 및 문장 유사도 측정 방식을 활용한 유사 문항 추출기 프로토타입 개발** (콴다 벤치마킹)
 
-## 🎓 Additional Education
+## Additional Education
 
 ### 항해 99 플러스 AI 2기 수료
 - **기간:** 2024.12 ~ 2025.02  

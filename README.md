@@ -11,18 +11,6 @@
 
 ## Education & Training
 
-### 아이펠 온라인 2기 AI 리서치 과정
-- **기간:** 2022.06 ~ 2023.06   
-- **내용:** 인공지능에 대한 제반 지식에 대한 총체적인 학습 및 KDT 해커톤까지 참여
-- **기간:** 2022.06 ~ 2023.06
-- **수료증:** [아이펠 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/%EC%95%84%EC%9D%B4%ED%8E%A0%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf)
-
-
-### LG AIMERS
-- **기간:** 2023.02 ~ 2023.09  
-- **내용:** NLP와 CNN, 시계열 데이터와 강화학습에 대한 이론적 토대 학습
-- **수료증:** [LG AIMERS 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/LG_AI%20(2).pdf)
-
 ### 항해 99 플러스 AI 2기 수료 및 3기 학습 메이트 
 - **기간:** 2024.12 ~ (진행중)
 - **내용:**
@@ -33,6 +21,17 @@
   - 수료증: [수료증 링크](https://github.com/Habonit/Habonit/blob/main/%ED%95%AD%ED%95%B4%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20AI%20%EC%BD%94%EC%8A%A4%202%EA%B8%B0%20%EC%88%98%EB%A3%8C%20%EC%9D%B8%EC%A6%9D%EC%84%9C.jpg)
   - 배지: <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+
+### LG AIMERS
+- **기간:** 2023.02 ~ 2023.09  
+- **내용:** NLP와 CNN, 시계열 데이터와 강화학습에 대한 이론적 토대 학습
+- **수료증:** [LG AIMERS 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/LG_AI%20(2).pdf)
+
+### 아이펠 온라인 2기 AI 리서치 과정
+- **기간:** 2022.06 ~ 2023.06   
+- **내용:** 인공지능에 대한 제반 지식에 대한 총체적인 학습 및 KDT 해커톤까지 참여
+- **기간:** 2022.06 ~ 2023.06
+- **수료증:** [아이펠 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/%EC%95%84%EC%9D%B4%ED%8E%A0%20%EC%88%98%EB%A3%8C%EC%A6%9D.pdf)
 
 ## Competitions & Achievements
 

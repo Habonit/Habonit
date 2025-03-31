@@ -1,7 +1,7 @@
 # AI Engineer Career Overview
 
 ## Current Position
-**TrustLab | AI Engineer**
+**TrustAI | AI Engineer**
 
 - **기간:** 2024년 ~ 현재  
 - **내용:**

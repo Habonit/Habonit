@@ -21,7 +21,18 @@
 ### LG AIMERS
 - **기간:** 2023.02 ~ 2023.09  
 - **내용:** NLP와 CNN, 시계열 데이터와 강화학습에 대한 이론적 토대 학습
-- **수료증:** [LG AIMERS 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/LG_AI%20(2).pdf)  
+- **수료증:** [LG AIMERS 수료증.pdf](https://github.com/Habonit/Habonit/raw/94c1df8769f32e5d3b59bc791a1504d80bbab762/LG_AI%20(2).pdf)
+
+### 항해 99 플러스 AI 2기 수료 및 3기 학습 메이트 
+- **기간:** 2024.12 ~ (진행중)
+- **내용:**
+  - **Transformer 계열의 언어 모델에 집중한 AI 교육 수료**
+  - **논문 요약 챗봇 서비스 개발**
+  - **3기 학습 메이트 과정 진행 중**
+- **수료:**
+  - 수료증: [수료증 링크](https://github.com/Habonit/Habonit/blob/main/%ED%95%AD%ED%95%B4%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20AI%20%EC%BD%94%EC%8A%A4%202%EA%B8%B0%20%EC%88%98%EB%A3%8C%20%EC%9D%B8%EC%A6%9D%EC%84%9C.jpg)
+  - 배지: <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 
 ## Competitions & Achievements
 
@@ -66,17 +77,5 @@
 - **내용:**
   - 중·고등부 수업을 담당하며 실무 경험 축적
   - **Mathpix API, doc2vec 및 문장 유사도 측정 방식을 활용한 유사 문항 추출기 프로토타입 개발** (콴다 벤치마킹)
-
-## Additional Education
-
-### 항해 99 플러스 AI 2기 수료
-- **기간:** 2024.12 ~ 2025.02  
-- **내용:**
-  - **Transformer 계열의 언어 모델에 집중한 AI 교육 수료**
-  - **논문 요약 챗봇 서비스 개발**
-- **수료:**
-  - 수료증: [수료증 링크](https://github.com/Habonit/Habonit/blob/main/%ED%95%AD%ED%95%B4%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20AI%20%EC%BD%94%EC%8A%A4%202%EA%B8%B0%20%EC%88%98%EB%A3%8C%20%EC%9D%B8%EC%A6%9D%EC%84%9C.jpg)
-  - 배지: <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 
   

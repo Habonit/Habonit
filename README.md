@@ -2,6 +2,7 @@
 
 ## Current Position
 **TrustAI | AI Engineer**
+**TrustLab | 책임 연구원**
 
 - **기간:** 2024년 ~ 현재  
 - **내용:**
@@ -10,6 +11,11 @@
   - **링크: **: [페이지 확인](https://labcord.ai/index.html)
 
 ## Education & Training
+### MLops 스터디
+- **기간:** 2025.03 ~ (진행 중)
+- **내용:**
+  - **Docker, Docker Compose, Airflow, MLflow** 등의 MLops를 위한 필요 기술 이론 습득
+  - 프로젝트 Correctly 진행: [페이지 확인](https://github.com/Habonit/Correectly-mlcycle)
 
 ### 항해 99 플러스 AI 2기 수료 및 3기 학습 메이트 
 - **기간:** 2024.12 ~ 2025.05

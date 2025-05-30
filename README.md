@@ -2,6 +2,7 @@
 
 ## Current Position
 **TrustAI | AI Engineer**
+
 **TrustLab | 책임 연구원**
 
 - **기간:** 2024년 ~ 현재  

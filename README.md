@@ -13,7 +13,7 @@
 
 ## Education & Training
 ### MLops 스터디
-- **기간:** 2025.03 ~ (진행 중)
+- **기간:** 2025.03 ~ 2025.06
 - **내용:**
   - **Docker, Docker Compose, Airflow, MLflow** 등의 MLops를 위한 필요 기술 이론 습득
   - 프로젝트 Correctly 진행: [페이지 확인](https://github.com/Habonit/Correectly-mlcycle)

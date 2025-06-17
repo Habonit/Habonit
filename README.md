@@ -9,7 +9,8 @@
 - **내용:**
   - 데이터 기반으로 **STT 모델 훈련** 및 **LLM 모델 훈련**
   - **민원 데이터 분석 및 민원 데이터 기반 다양한 모델링 기획**
-  - **링크: **: [페이지 확인](https://labcord.ai/index.html)
+  - **제품 링크: **: [페이지 확인](https://labcord.ai/index.html)
+  - **회사 페이지: ** [페이지 확인](https://trustlab.co.kr/)
 
 ## Education & Training
 ### MLops 스터디

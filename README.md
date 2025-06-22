@@ -13,7 +13,7 @@
   - **회사 페이지: ** [페이지 확인](https://trustlab.co.kr/)
 
 ## Education & Training
-### 모각코
+### MHA 스터디
 - **기간:** 2025.06 ~ 진행 중
 - **내용:** TalkFlow 개발
 

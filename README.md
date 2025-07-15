@@ -1,16 +1,10 @@
 # AI Engineer Career Overview
 
 ## Current Position
-**TrustAI | AI Engineer**
 
-**TrustLab | 책임 연구원**
-
-- **기간:** 2024년 ~ 현재  
+### ** 기원 테크 | **
+- **기간:** 2025년 ~ 현재  
 - **내용:**
-  - 데이터 기반으로 **STT 모델 훈련** 및 **LLM 모델 훈련**
-  - **민원 데이터 분석 및 민원 데이터 기반 다양한 모델링 기획**
-  - **제품 링크: **: [페이지 확인](https://labcord.ai/index.html)
-  - **회사 페이지: ** [페이지 확인](https://trustlab.co.kr/)
 
 ## Education & Training
 ### MHA 스터디
@@ -85,10 +79,20 @@
 
 ## Practical Experience
 
+### ** TrustAI| AI Engineer**
+- **기간:** 2024년 ~ 현재  
+- **내용:**
+  - 데이터 기반으로 **STT 모델 훈련** 및 **LLM 모델 훈련**
+  - **민원 데이터 분석 및 민원 데이터 기반 다양한 모델링 기획**
+  - **제품 링크: **: [페이지 확인](https://labcord.ai/index.html)
+  - **회사 페이지: ** [페이지 확인](https://trustlab.co.kr/)
+
+
 ### 김현정 수학학원 | 중·고등부 수업 담당 & 유사 문항 추출기 개발
 - **연도:** 2024년  
 - **내용:**
   - 중·고등부 수업을 담당하며 실무 경험 축적
   - **Mathpix API, doc2vec 및 문장 유사도 측정 방식을 활용한 유사 문항 추출기 프로토타입 개발** (콴다 벤치마킹)
+
 
   

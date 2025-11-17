@@ -5,7 +5,7 @@
 ### ** 기원 테크 | **
 - **기간:** 2025년 ~ 현재  
 - **내용:**
-    - 솔루션 민원e 개발에 참여하는 MLops, LLMops 엔지니어
+    - 데이터 기반 솔루션 민원e 개발에 참여하는 MLops, LLMops 엔지니어
 
 ## Education & Training
 ### MHA 스터디
